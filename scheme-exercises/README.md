@@ -1,0 +1,1 @@
+I have made some exercises from [http://www.shido.info/lisp/idx_scm_e.html](Yet Another Scheme Tutorial). Solutions already on the website but these are my versions before checking them out.
